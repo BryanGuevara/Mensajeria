@@ -20,7 +20,7 @@ Una aplicación de escritorio desarrollada en Java utilizando Swing para la inte
 
 ---
 
-## 🧑‍💻 Forma de Uso
+## Forma de Uso
 
 Una vez dentro de la aplicación:
 
